@@ -2,7 +2,6 @@
 
 **Laporan: Implementasi Program Client-Server Ping-Pong Menggunakan Python**
 
-Pendahuluan
 Program ini mengukur waktu tempuh bolak-balik (RTT) antara klien dan server menggunakan protokol UDP. Klien mengirimkan pesan "ping" dan server membalas dengan "pong", mencatat waktu respons untuk setiap paket.
 
 **Tujuan Program :**
